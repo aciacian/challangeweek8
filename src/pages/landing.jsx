@@ -11,6 +11,7 @@ import Footer from "../components/footer";
 const Landing = () => {
     return (
         <>
+            <h1>Selamat datang</h1>
             <Nav/>
             <Hero/>
             <Girl/>
